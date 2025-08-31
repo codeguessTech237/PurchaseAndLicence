@@ -38,11 +38,11 @@ These will be used to connect the application to your database.
 ### ✅ Step 1: Check & Verify File Permissions
 Make sure PHP extensions like pdo_mysql, openssl, mbstring, and curl are enabled.
 
-![step-0.png](public/assets/capture/step-1.png)
+![step-1.png](public/assets/capture/step-1.png)
 ### ✅ Step 2: Update Purchase Information
 
 Provide your purchase code and buyer username to verify your license.
-![step-0.png](public/assets/capture/step-2.png)
+![step-2.png](public/assets/capture/step-2.png)
 ### ✅ Step 3: Update Database Information
 
 Fill in the database information you collected earlier:
@@ -52,12 +52,12 @@ Fill in the database information you collected earlier:
 - DB_PASSWORD
 
 This will automatically update the .env file.
-![step-0.png](public/assets/capture/step-3.png)
+![step-3.png](public/assets/capture/step-3.png)
 ### ✅ Step 4: Import Database
 
 The installer will import the default database schema and required tables.
 Make sure your database is empty before proceeding.
-![step-0.png](public/assets/capture/step-4.png)
+![step-4.png](public/assets/capture/step-4.png)
 ### ✅ Step 5: Admin Account Settings
 
 Set up your admin account credentials:
@@ -66,7 +66,7 @@ Set up your admin account credentials:
 - Admin Password
 
 This account will be used to log in to the system.
-![step-0.png](public/assets/capture/step-5.png)
+![step-5.png](public/assets/capture/step-5.png)
 ### ✅ Step 6: Final Configuration
 
 Your software is now installed 🎉.
@@ -75,7 +75,7 @@ Before starting, configure:
 - System settings (time zone, currency, etc.)
 - Email settings (SMTP for sending mails)
 - Other environment configurations if required.
-![step-0.png](public/assets/capture/step-6.png)
+![step-6.png](public/assets/capture/step-6.png)
 ### 🏠 Home – Start the Application
 
 Once everything is set, you can log in to the system with your admin credentials and start using the software.
